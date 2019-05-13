@@ -1,0 +1,10 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/components";
+
+@import "./global/fonts.css";
+@import "./global/base.css";
+
+@import-glob "./components/**/*";
+@import-glob "./templates/**/*";
+
+@import "tailwindcss/utilities";

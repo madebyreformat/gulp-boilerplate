@@ -1,0 +1,4 @@
+@custom-media --tablet (min-width:640px);
+@custom-media --desktop (min-width:1025px);
+@custom-media --hdpi (min-width:1200px);
+@custom-media --touch (hover:none);

@@ -1,0 +1,14 @@
+:root {
+  --black:   #231F20;
+  --green:   #77BFB4;
+  --yellow:  #F0B421;
+  --red:     #F05B4E;
+  --blue:    #0B4A7C;
+  --grey:    #DBDCE0;
+  --white:   #ffffff;
+  --fs-s:    13px;
+  --fs-base: 18px;
+  --fs-m:    24px;
+  --fs-l:    36px;
+  --fs-xl:   48px;
+}
